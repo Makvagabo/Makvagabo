@@ -1,0 +1,6 @@
+- 👷 Speciality: Software Frontend Developer 
+- 💡 [Skills](https://github.com/Makvagabo/knowledge-base) & Rates...comming soon
+- 🧻 Projects...comming soon
+- 🧑‍💻 Languages: JavaScript, TypeScript
+- 📦 Tech stack: ReactJS + TypeScript
+- 💬 telegram: @Makvagabo 📫 leizarlok@gmail.com
