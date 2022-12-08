@@ -1,5 +1,5 @@
 - 👷 Speciality: Software Frontend Developer 
-- 💡 [Skills](https://github.com/Makvagabo/knowledge-base) & Rates...comming soon
+- 💡 Skills & Rates...comming soon
 - 🧻 Projects...comming soon
 - 🧑‍💻 Languages: JavaScript, TypeScript
 - 📦 Tech stack: ReactJS + TypeScript
